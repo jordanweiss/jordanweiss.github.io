@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://jordanweiss/github.io/sitemap.xml
+Sitemap: https://jordanweiss.github.io/sitemap.xml
