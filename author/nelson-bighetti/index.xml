@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nelson Bighetti | Jordan Weiss, PhD</title>
+    <link>https://jordanweiss.github.io/author/nelson-bighetti/</link>
+      <atom:link href="https://jordanweiss.github.io/author/nelson-bighetti/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nelson Bighetti</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Jordan Weiss 2022</copyright>
+    <image>
+      <url>https://jordanweiss.github.io/images/icon_hued58f560467fcb243aec1e4d426595b4_5801_512x512_fill_lanczos_center_2.png</url>
+      <title>Nelson Bighetti</title>
+      <link>https://jordanweiss.github.io/author/nelson-bighetti/</link>
+    </image>
+    
+  </channel>
+</rss>
