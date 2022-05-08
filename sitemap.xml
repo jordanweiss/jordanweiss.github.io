@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jordanweiss.github.io/talk/</loc>
+  </url>
+  
+  <url>
     <loc>https://jordanweiss.github.io/authors/</loc>
   </url>
   
@@ -40,10 +44,6 @@
   
   <url>
     <loc>https://jordanweiss.github.io/author/qelson-bighetti/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jordanweiss.github.io/talk/</loc>
   </url>
   
   <url>
